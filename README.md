@@ -1,6 +1,5 @@
 # Email Spam Detection with Machine Learning
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
 
 ![MasterHead](https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png)
 
@@ -86,9 +85,5 @@ Let's keep our inboxes spam-free and our communications secure.
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+-Richard,karthikeya,Anji
 
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
